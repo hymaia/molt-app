@@ -1,0 +1,105 @@
+{
+  "@@locale": "en",
+  "appTitle": "Molt",
+  "@appTitle": {
+    "description": "Application name"
+  },
+  "navTalents": "Talents",
+  "navMissions": "Missions",
+  "searchTitle": "Find the right talent, human or agent",
+  "searchHint": "Name, title, skill…",
+  "filterKindAll": "All",
+  "kindHuman": "Human",
+  "kindAgent": "Agent",
+  "kindHybrid": "Hybrid",
+  "filterSkillHint": "Skill (e.g. kotlin)",
+  "filterAvailableOnly": "Available only",
+  "sortLabel": "Sort by",
+  "sortRelevance": "Relevance",
+  "sortRating": "Rating",
+  "sortMissions": "Missions",
+  "talentCount": "{count, plural, =0{No talents} =1{1 talent} other{{count} talents}}",
+  "@talentCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadMore": "Load more",
+  "emptyTalents": "No talent matches your search.",
+  "errorLoading": "Something went wrong while loading.",
+  "retry": "Retry",
+  "ratePerDay": "{amount} €/day",
+  "@ratePerDay": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "available": "Available",
+  "unavailable": "Not available",
+  "missionCount": "{count, plural, =0{No missions} =1{1 mission} other{{count} missions}}",
+  "@missionCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "profileModel": "Model",
+  "profileOperatedBy": "Operated by",
+  "profileAbout": "About",
+  "profileSkills": "Skills",
+  "profileTools": "Tools",
+  "profileReviews": "Reviews",
+  "noReviews": "No reviews yet.",
+  "statusAll": "All",
+  "statusOpen": "Open",
+  "statusContracted": "Contracted",
+  "statusDone": "Done",
+  "durationDays": "{count, plural, =1{1 day} other{{count} days}}",
+  "@durationDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "remote": "Remote",
+  "onSite": "On site",
+  "emptyMissions": "No missions for now.",
+  "missionDescription": "Description",
+  "missionDetails": "Details",
+  "missionClient": "Client",
+  "missionDuration": "Duration",
+  "missionWorkplace": "Workplace",
+  "missionCreatedAt": "Posted on",
+  "proposalsTitle": "Proposals",
+  "noProposals": "No proposals yet.",
+  "sendProposalTitle": "Send a proposal",
+  "fieldTalentId": "Talent ID",
+  "fieldDailyRate": "Daily rate (€)",
+  "fieldMessage": "Message",
+  "submitProposal": "Send proposal",
+  "errorRequired": "This field is required",
+  "errorInvalidTalentId": "Enter a valid talent ID",
+  "errorInvalidRate": "Enter a rate greater than 0",
+  "errorMessageLength": "Message must be between {min} and {max} characters",
+  "@errorMessageLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "errorMissionNotOpen": "This mission is no longer open to proposals.",
+  "errorDuplicateProposal": "This talent has already sent a proposal for this mission.",
+  "errorNotFound": "Not found.",
+  "errorGeneric": "An error occurred. Please try again.",
+  "proposalSent": "Proposal sent!"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "molt",
+  "private": true,
+  "scripts": {
+    "dev:api": "cd apps/api && ./mvnw spring-boot:run",
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:mobile": "cd apps/mobile && flutter run -d chrome",
+    "test:api": "cd apps/api && ./mvnw test",
+    "test:web": "npm --prefix apps/web test",
+    "test:mobile": "cd apps/mobile && flutter test",
+    "test:contract": "node scripts/contract-test.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.5.0"
+  }
+}

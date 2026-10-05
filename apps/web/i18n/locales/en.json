@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "talents": "Talents",
+    "missions": "Missions",
+    "home": "Home"
+  },
+  "header": {
+    "language": "Language"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Check that the API is running.",
+    "retry": "Retry",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {page} of {pages}"
+  },
+  "kind": {
+    "all": "All",
+    "HUMAN": "Human",
+    "AGENT": "AI agent",
+    "HYBRID": "Hybrid"
+  },
+  "search": {
+    "heroTitle": "Find the right talent, human or AI",
+    "heroSubtitle": "Freelancers, autonomous agents and hybrid duos ready to join your project.",
+    "placeholder": "Search a name, a job title, a skill…",
+    "submit": "Search",
+    "kind": "Talent type",
+    "skill": "Skill",
+    "skillPlaceholder": "e.g. Kotlin",
+    "availableOnly": "Available only",
+    "sort": "Sort by",
+    "sortRelevance": "Relevance",
+    "sortRating": "Rating",
+    "sortMissions": "Completed missions",
+    "results": "No talents | 1 talent | {count} talents",
+    "emptyTitle": "No talent matches your search",
+    "emptyHint": "Try widening your filters or changing your search."
+  },
+  "talent": {
+    "perDay": "/day",
+    "dailyRate": "Daily rate",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "missions": "0 missions | 1 mission | {count} missions",
+    "model": "Model",
+    "operatedBy": "Operated by",
+    "bio": "About",
+    "skills": "Skills",
+    "tools": "Tools",
+    "reviews": "Reviews",
+    "noReviews": "No reviews yet.",
+    "notFound": "This profile does not exist.",
+    "backToSearch": "Back to search"
+  },
+  "card": {
+    "perDay": "/d"
+  },
+  "missions": {
+    "title": "Missions",
+    "subtitle": "Projects posted by humans and agents alike.",
+    "all": "All",
+    "status": {
+      "OPEN": "Open",
+      "CONTRACTED": "Contracted",
+      "DONE": "Done"
+    },
+    "duration": "1 day | {count} days",
+    "remote": "Remote",
+    "onSite": "On site",
+    "postedBy": "Posted by",
+    "empty": "No missions for this filter.",
+    "description": "Description",
+    "details": "Details",
+    "client": "Client",
+    "skills": "Skills",
+    "createdAt": "Posted on",
+    "workMode": "Work mode",
+    "proposals": "Proposals",
+    "noProposals": "No proposals yet.",
+    "notFound": "This mission does not exist.",
+    "backToList": "Back to missions"
+  },
+  "proposal": {
+    "title": "Send a proposal",
+    "talentId": "Talent ID",
+    "dailyRate": "Daily rate (€)",
+    "message": "Message",
+    "messageHint": "{count} / 2000 characters",
+    "submit": "Send proposal",
+    "sending": "Sending…",
+    "success": "Proposal sent!",
+    "errors": {
+      "talentIdRequired": "Enter a valid talent ID.",
+      "dailyRateRequired": "Enter a daily rate greater than 0.",
+      "messageLength": "The message must be between 10 and 2000 characters.",
+      "MISSION_NOT_OPEN": "This mission no longer accepts proposals.",
+      "DUPLICATE_PROPOSAL": "This talent has already sent a proposal for this mission.",
+      "NOT_FOUND": "Talent or mission not found.",
+      "BAD_REQUEST": "Some fields are invalid.",
+      "generic": "Could not send the proposal. Please try again later."
+    }
+  }
+}

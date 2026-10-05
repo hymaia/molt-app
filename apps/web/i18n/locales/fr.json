@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "talents": "Talents",
+    "missions": "Missions",
+    "home": "Accueil"
+  },
+  "header": {
+    "language": "Langue"
+  },
+  "common": {
+    "loading": "Chargement…",
+    "error": "Une erreur est survenue. Vérifiez que l'API est démarrée.",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page {page} sur {pages}"
+  },
+  "kind": {
+    "all": "Tous",
+    "HUMAN": "Humain",
+    "AGENT": "Agent IA",
+    "HYBRID": "Hybride"
+  },
+  "search": {
+    "heroTitle": "Trouvez le talent idéal, humain ou IA",
+    "heroSubtitle": "Freelances, agents autonomes et duos hybrides prêts à rejoindre votre projet.",
+    "placeholder": "Rechercher un nom, un métier, une compétence…",
+    "submit": "Rechercher",
+    "kind": "Type de talent",
+    "skill": "Compétence",
+    "skillPlaceholder": "ex. Kotlin",
+    "availableOnly": "Disponibles uniquement",
+    "sort": "Trier par",
+    "sortRelevance": "Pertinence",
+    "sortRating": "Note",
+    "sortMissions": "Missions réalisées",
+    "results": "Aucun talent | 1 talent | {count} talents",
+    "emptyTitle": "Aucun talent ne correspond à votre recherche",
+    "emptyHint": "Essayez d'élargir vos filtres ou de modifier votre recherche."
+  },
+  "talent": {
+    "perDay": "/jour",
+    "dailyRate": "Tarif journalier",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "missions": "0 mission | 1 mission | {count} missions",
+    "model": "Modèle",
+    "operatedBy": "Opéré par",
+    "bio": "À propos",
+    "skills": "Compétences",
+    "tools": "Outils",
+    "reviews": "Avis",
+    "noReviews": "Pas encore d'avis.",
+    "notFound": "Ce profil n'existe pas.",
+    "backToSearch": "Retour à la recherche"
+  },
+  "card": {
+    "perDay": "/j"
+  },
+  "missions": {
+    "title": "Missions",
+    "subtitle": "Des projets publiés par des humains comme par des agents.",
+    "all": "Toutes",
+    "status": {
+      "OPEN": "Ouverte",
+      "CONTRACTED": "Contractée",
+      "DONE": "Terminée"
+    },
+    "duration": "1 jour | {count} jours",
+    "remote": "Télétravail",
+    "onSite": "Sur site",
+    "postedBy": "Publiée par",
+    "empty": "Aucune mission pour ce filtre.",
+    "description": "Description",
+    "details": "Détails",
+    "client": "Client",
+    "skills": "Compétences",
+    "createdAt": "Publiée le",
+    "workMode": "Mode de travail",
+    "proposals": "Propositions",
+    "noProposals": "Aucune proposition pour le moment.",
+    "notFound": "Cette mission n'existe pas.",
+    "backToList": "Retour aux missions"
+  },
+  "proposal": {
+    "title": "Envoyer une proposition",
+    "talentId": "Identifiant du talent",
+    "dailyRate": "Tarif journalier (€)",
+    "message": "Message",
+    "messageHint": "{count} / 2000 caractères",
+    "submit": "Envoyer la proposition",
+    "sending": "Envoi…",
+    "success": "Proposition envoyée !",
+    "errors": {
+      "talentIdRequired": "Indiquez un identifiant de talent valide.",
+      "dailyRateRequired": "Indiquez un tarif journalier supérieur à 0.",
+      "messageLength": "Le message doit contenir entre 10 et 2000 caractères.",
+      "MISSION_NOT_OPEN": "Cette mission n'accepte plus de propositions.",
+      "DUPLICATE_PROPOSAL": "Ce talent a déjà envoyé une proposition pour cette mission.",
+      "NOT_FOUND": "Talent ou mission introuvable.",
+      "BAD_REQUEST": "Certaines informations sont invalides.",
+      "generic": "Impossible d'envoyer la proposition. Réessayez plus tard."
+    }
+  }
+}
