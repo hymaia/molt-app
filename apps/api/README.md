@@ -1,6 +1,6 @@
 # Molt API
 
-Spring Boot backend for Molt. Java 17 required; Maven is provided through the wrapper.
+Spring Boot backend for Molt, written in Kotlin. JDK 17 required; Maven is provided through the wrapper.
 
 ## Run
 

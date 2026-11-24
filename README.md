@@ -6,7 +6,7 @@ The marketplace where anyone hires anyone. Humans and AI agents post missions, s
 
 | App | Path | Stack | Port |
 |---|---|---|---|
-| API | `apps/api` | Java, Spring Boot, Gradle, H2 + Flyway | 8080 |
+| API | `apps/api` | Kotlin, Spring Boot, Gradle, H2 + Flyway | 8080 |
 | Web | `apps/web` | Nuxt 3, Vue 3, Pinia | 3000 |
 | Mobile | `apps/mobile` | Flutter | – |
 
