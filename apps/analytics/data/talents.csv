@@ -1,0 +1,41 @@
+id,kind,name,title,location,daily_rate_cents,rating,mission_count,available
+1,HUMAN,Niki L.,Senior Prompt Engineer,Lyon,65000,4.8,142,True
+2,HUMAN,Lella L.,Data Scientist,Paris,180000,4.9,87,False
+3,HUMAN,Ronnie P.,UX Designer,Paris,72000,4.6,54,True
+4,HUMAN,Divina G.,Copywriter bilingue,Bordeaux,60000,4.4,63,True
+5,HUMAN,Jacky I.,Data Engineer,Marseille,85000,4.3,38,True
+6,HUMAN,Clay R.,Développeur Java senior,Châteauroux,75000,4.7,201,False
+7,HUMAN,Patrick D.,Développeur front-end,Saint-Tropez,55000,4.1,29,True
+8,HUMAN,Jody S.,Développeur Android,Paris,68000,4.5,47,True
+9,HUMAN,Jacques L.,Analyste SQL,Bruxelles,59000,4.9,112,False
+10,HUMAN,François C.,DevOps Engineer,Deauville,95000,4.2,76,True
+11,HUMAN,Emerson F.,Software Architect,Orléans,100000,4.8,160,True
+12,HUMAN,Mario A.,Traducteur technique,Paris,42000,4.6,93,True
+13,HUMAN,Jean-Pierre J.,Consultant SEO & contenu,Pézenas,38000,3.9,21,True
+14,HUMAN,Carlos R.,Développeur Flutter,Cabourg,62000,4.0,15,False
+15,HUMAN,Jochen M.,QA Engineer,Bruxelles,48000,4.4,58,True
+16,HUMAN,Gilles V.,Développeur Go,Rennes,70000,3.7,12,True
+17,HUMAN,James H.,Platform Engineer,Genève,130000,4.5,44,False
+18,HUMAN,Jackie S.,Développeur full-stack,Nantes,58000,4.3,34,True
+19,AGENT,Agent Smith-Dupont,Autonomous Full-stack Agent,eu-west-3,30000,4.7,250,True
+20,AGENT,GPT-Thierry,Code Review Agent,eu-west-1,60000,4.2,180,True
+21,AGENT,Lambda Lucette,Serverless Ops Agent,eu-west-3,29999,4.0,96,True
+22,AGENT,Mistral Gagnant,SEO & Copywriting Agent,europe-west9,18000,3.8,132,True
+23,AGENT,Lama Fâché,Translation Agent,eu-central-1,15000,3.5,220,True
+24,AGENT,Gémeaux Express,Data Analysis Agent,europe-west9,45000,4.1,74,True
+25,AGENT,Robo-Pierre,Java Migration Agent,eu-west-3,80000,4.6,61,False
+26,AGENT,Croissant-3000,Mobile App Agent,eu-west-3,60000,3.9,40,True
+27,AGENT,Le Petit Prompteur,UX Writing Agent,francecentral,25000,4.3,150,True
+28,AGENT,Baguette.exe,QA Automation Agent,eu-west-3,22000,3.6,88,False
+29,AGENT,Camembert-o-Tron,Infra Agent,eu-west-1,52000,3.4,33,True
+30,AGENT,EscarGo,Backend Agent,eu-central-1,35000,3.2,9,True
+31,AGENT,Arsène Lu-Pipeline,CI/CD Agent,eu-west-3,40000,4.5,190,True
+32,AGENT,Dédé Le Daemon,Monitoring & On-call Agent,eu-west-1,27000,4.0,245,True
+33,AGENT,Madame Coroutine,Kotlin Agent,europe-west9,48000,4.2,57,False
+34,AGENT,Tartiflette-AI,Data Pipeline Agent,francecentral,56000,3.9,66,True
+35,HYBRID,Dupont & Dupond.ai,Duo audit & conformité,eu-west-3,110000,4.4,31,True
+36,HYBRID,Cyrano de Botgerac,Ghostwriter augmenté,europe-west9,99999,4.9,77,True
+37,HYBRID,Lumière & Co-pilot,Product Designer augmenté,eu-west-1,90000,4.6,42,False
+38,HYBRID,Obélix-Assist,Data Engineering,eu-central-1,120000,4.1,19,True
+39,HYBRID,Tour de Babel & Fils,Studio de traduction,eu-west-3,65000,4.7,120,True
+40,HYBRID,Claude François-Pilot,Pair-programmeur Java,eu-west-3,60000,4.8,64,True

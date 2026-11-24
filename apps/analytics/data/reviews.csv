@@ -1,0 +1,81 @@
+talent_id,author,rating,created_at
+2,Baguette Analytics,5,2026-11-11
+2,AutoGPT SAS,5,2026-10-25
+3,AutoGPT SAS,5,2026-11-08
+3,Fromagerie Numérique,5,2026-10-22
+3,Orchestrator-7,5,2026-10-05
+3,Crêpe Stack,5,2026-09-18
+4,Fromagerie Numérique,4,2026-11-05
+5,Orchestrator-7,4,2026-11-02
+5,Crêpe Stack,5,2026-10-16
+5,Brioche Cloud,4,2026-09-29
+7,Brioche Cloud,4,2026-10-27
+7,Ratatouille Robotics,5,2026-10-10
+8,Ratatouille Robotics,5,2026-10-24
+8,Croissant Labs,5,2026-10-07
+8,Baguette Analytics,5,2026-09-20
+8,AutoGPT SAS,5,2026-09-03
+9,Croissant Labs,5,2026-10-21
+10,Baguette Analytics,4,2026-10-18
+10,AutoGPT SAS,5,2026-10-01
+10,Fromagerie Numérique,4,2026-09-14
+12,Fromagerie Numérique,5,2026-10-12
+12,Orchestrator-7,5,2026-09-25
+13,Orchestrator-7,4,2026-10-09
+13,Crêpe Stack,5,2026-09-22
+13,Brioche Cloud,4,2026-09-05
+13,Ratatouille Robotics,5,2026-08-19
+14,Crêpe Stack,4,2026-10-06
+15,Brioche Cloud,4,2026-10-03
+15,Ratatouille Robotics,5,2026-09-16
+15,Croissant Labs,4,2026-08-30
+17,Croissant Labs,5,2026-09-27
+17,Baguette Analytics,5,2026-09-10
+18,Baguette Analytics,4,2026-09-24
+18,AutoGPT SAS,5,2026-09-07
+18,Fromagerie Numérique,4,2026-08-21
+18,Orchestrator-7,5,2026-08-04
+19,AutoGPT SAS,5,2026-09-21
+20,Fromagerie Numérique,4,2026-09-18
+20,Orchestrator-7,5,2026-09-01
+20,Crêpe Stack,4,2026-08-15
+22,Crêpe Stack,4,2026-09-12
+22,Brioche Cloud,5,2026-08-26
+23,Brioche Cloud,3,2026-09-09
+23,Ratatouille Robotics,4,2026-08-23
+23,Croissant Labs,3,2026-08-06
+23,Baguette Analytics,4,2026-07-20
+24,Ratatouille Robotics,4,2026-09-06
+25,Croissant Labs,5,2026-09-03
+25,Baguette Analytics,5,2026-08-17
+25,AutoGPT SAS,5,2026-07-31
+27,AutoGPT SAS,4,2026-08-28
+27,Fromagerie Numérique,5,2026-08-11
+28,Fromagerie Numérique,3,2026-08-25
+28,Orchestrator-7,4,2026-08-08
+28,Crêpe Stack,3,2026-07-22
+28,Brioche Cloud,4,2026-07-05
+29,Orchestrator-7,3,2026-08-22
+30,Crêpe Stack,3,2026-08-19
+30,Brioche Cloud,4,2026-08-02
+30,Ratatouille Robotics,3,2026-07-16
+32,Ratatouille Robotics,4,2026-08-13
+32,Croissant Labs,5,2026-07-27
+33,Croissant Labs,4,2026-08-10
+33,Baguette Analytics,5,2026-07-24
+33,AutoGPT SAS,4,2026-07-07
+33,Fromagerie Numérique,5,2026-06-20
+34,Baguette Analytics,4,2026-08-07
+35,AutoGPT SAS,4,2026-08-04
+35,Fromagerie Numérique,5,2026-07-18
+35,Orchestrator-7,4,2026-07-01
+37,Orchestrator-7,5,2026-07-29
+37,Crêpe Stack,5,2026-07-12
+38,Crêpe Stack,4,2026-07-26
+38,Brioche Cloud,5,2026-07-09
+38,Ratatouille Robotics,4,2026-06-22
+38,Croissant Labs,5,2026-06-05
+39,Brioche Cloud,5,2026-07-23
+40,Ratatouille Robotics,5,2026-07-20
+40,Croissant Labs,5,2026-07-03
+40,Baguette Analytics,5,2026-06-16
