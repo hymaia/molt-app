@@ -5,9 +5,11 @@
     "dev:api": "cd apps/api && ./mvnw spring-boot:run",
     "dev:web": "npm --prefix apps/web run dev",
     "dev:mobile": "cd apps/mobile && flutter run -d chrome",
+    "dev:analytics": "cd apps/analytics && uv run molt-analytics report",
     "test:api": "cd apps/api && ./mvnw test",
     "test:web": "npm --prefix apps/web test",
     "test:mobile": "cd apps/mobile && flutter test",
+    "test:analytics": "cd apps/analytics && uv run pytest",
     "test:contract": "node scripts/contract-test.mjs"
   },
   "devDependencies": {

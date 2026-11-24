@@ -8,4 +8,4 @@
 
 ## Git
 
-- Commit messages: `[api]`, `[web]`, `[mobile]`, `[contract]` prefix, imperative, under 72 characters.
+- Commit messages: `[api]`, `[web]`, `[mobile]`, `[analytics]`, `[contract]` prefix, imperative, under 72 characters.
