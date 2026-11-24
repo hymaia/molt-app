@@ -1,0 +1,26 @@
+{
+  "report": {
+    "title": "Report del marketplace Molt",
+    "generated": "Generato il",
+    "written": "Report scritto in"
+  },
+  "section": {
+    "headline": "Numeri chiave",
+    "talent_mix": "Composizione dei talenti",
+    "funnel": "Funnel delle missioni",
+    "rates": "Tariffe giornaliere per tipo di talento",
+    "ratings": "Distribuzione dei voti",
+    "premium": "Talenti premium per tipo",
+    "skills_gap": "Competenze: domanda e offerta"
+  },
+  "kpi": {
+    "talents": "Talenti",
+    "clients": "Clienti",
+    "missions": "Missioni",
+    "proposals": "Proposte",
+    "proposals_per_mission": "Proposte per missione",
+    "conversion": "Conversione",
+    "premium": "Talenti premium",
+    "new_missions": "Nuove missioni (30 giorni)"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "report": {
+    "title": "Rapport de la marketplace Molt",
+    "generated": "Généré le",
+    "written": "Rapport écrit dans"
+  },
+  "section": {
+    "headline": "Chiffres clés",
+    "talent_mix": "Répartition des talents",
+    "funnel": "Entonnoir des missions",
+    "rates": "TJM par type de talent",
+    "ratings": "Distribution des notes",
+    "premium": "Talents premium par type"
+  },
+  "kpi": {
+    "talents": "Talents",
+    "clients": "Clients",
+    "missions": "Missions",
+    "proposals": "Propositions",
+    "proposals_per_mission": "Propositions par mission",
+    "conversion": "Conversion",
+    "premium": "Talents premium",
+    "new_missions": "Nouvelles missions (30 jours)"
+  }
+}

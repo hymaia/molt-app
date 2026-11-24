@@ -1,0 +1,26 @@
+{
+  "report": {
+    "title": "Molt marketplace report",
+    "generated": "Generated on",
+    "written": "Report written to"
+  },
+  "section": {
+    "headline": "Headline numbers",
+    "talent_mix": "Talent mix",
+    "funnel": "Mission funnel",
+    "rates": "Daily rates by talent kind",
+    "ratings": "Rating distribution",
+    "premium": "Premium talents by kind",
+    "skills_gap": "Skills: demand vs supply"
+  },
+  "kpi": {
+    "talents": "Talents",
+    "clients": "Clients",
+    "missions": "Missions",
+    "proposals": "Proposals",
+    "proposals_per_mission": "Proposals per mission",
+    "conversion": "Conversion",
+    "premium": "Premium talents",
+    "new_missions": "New missions (30 days)"
+  }
+}
