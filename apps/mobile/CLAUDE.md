@@ -2,7 +2,7 @@
 
 Flutter app for Molt. State with Riverpod, routing with go_router, HTTP with Dio.
 
-<!-- IMPORTANT: web and mobile are iso-functional. A feature ships on both apps or on neither: always flag the web impact of a mobile change. -->
+Web and mobile are iso-functional: a feature ships on both apps or on neither. Flag the web impact of a mobile change.
 
 ## Commands
 
@@ -33,6 +33,8 @@ await tester.pumpWidget(
 ```
 
 `FakeTalentRepository implements TalentRepository` and returns fixed `TalentDetail` objects.
+
+For screens that call the API, mock Dio with `http_mock_adapter` and return canned JSON.
 
 ## Me
 
