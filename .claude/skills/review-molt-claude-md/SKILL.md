@@ -40,7 +40,7 @@ You may say how many planted problems are left (the score does that). For bonuse
 - Match on meaning, not words. "The tech stack is wrong, it's Kotlin" matches the outdated stack. "Too long", alone, matches nothing: ask which part, without suggesting one.
 - An item must point at the problem, not just at its place: "something is off in the Tests section" is not a match. Ask what is wrong with it, without confirming there is something.
 - A bonus needs a place and a defect: "`TalentController` does the search in memory" counts; "the code is messy" or "`TalentController` is bad" does not. Ask what is wrong, without confirming anything is.
-- The enum convention line in each file (fixed set of values → enum, or labels in analytics) is not a planted problem: it is true for kinds and statuses. If the user attacks it, answer ➖ "fair point, but not one of the planted problems" and nothing more. Never explain why it might be a trap: it sets up the next exercise.
+- The enum convention line in each file (fixed set of values → enum, or labels in analytics) is not a planted problem: it is true for kinds and statuses. If the user attacks it, answer exactly "Well... maybe..." with no detail, no emoji and no point. Never explain why it might be a trap: it sets up the next exercise.
 - One item can match at most one problem. If one item clearly names two, count both.
 - The fix does not need to be right, but a wrong fix is worth one sentence (for example "move it to the root CLAUDE.md" for a personal preference: the problem counts, but the fix is wrong).
 
