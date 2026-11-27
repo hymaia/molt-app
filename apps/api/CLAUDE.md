@@ -18,6 +18,7 @@ The API is written in Java 17 with Spring Boot and Lombok. Use `@Data` on entiti
 
 - Return DTOs from controllers, never JPA entities.
 - Keep HTTP in controllers and business rules in services.
+- Model a fixed set of values as a Kotlin `enum class` persisted with `@Enumerated(EnumType.STRING)`, like `TalentKind` and `MissionStatus`.
 
 ## Tests
 

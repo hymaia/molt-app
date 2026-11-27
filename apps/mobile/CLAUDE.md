@@ -15,6 +15,7 @@ Web and mobile are iso-functional: a feature ships on both apps or on neither. F
 - Screens read data through providers in `lib/data/providers.dart`.
 - Providers call the repositories in `lib/data/repositories/`. Screens never create their own `Dio`.
 - Format money with `lib/utils/format.dart`. Amounts arrive in cents.
+- Each contract enum has a Dart enum in `lib/data/models/`, parsed with a `fromJson` that falls back to a default value (see `talent_kind.dart`).
 
 ## Testing widgets
 

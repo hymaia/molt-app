@@ -14,6 +14,7 @@ Marketplace metrics for Molt with pandas and DuckDB, managed with uv.
 - Tests and the default report read the CSV snapshot in `data/`, never the live API.
 - Refresh the snapshot with `uv run molt-analytics export` (API running), and commit the CSVs in a separate commit.
 - Amounts are in cents, like in the API. Convert to euros only in the report output.
+- Categorical columns (`kind`, `status`) stay as labels: group and filter on the label.
 - Metric definitions are in `docs/metrics-glossary.md`. Read it before adding a metric.
 
 ## Engineering Guidelines

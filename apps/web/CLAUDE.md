@@ -41,7 +41,7 @@ mount(TalentCard, {
 })
 ```
 
-Type test data with `Talent` from `~/types/api`, so a contract change breaks the test at compile time.
+Type test data with `Talent` from `~/types/api`, so a contract change breaks the test at compile time. Every contract enum is mirrored there as a string union (`type TalentKind = 'HUMAN' | 'AGENT' | 'HYBRID'`): add new ones the same way.
 
 ## Languages
 
